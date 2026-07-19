@@ -32,13 +32,3 @@
 ```
 
     
-
----
-
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/watsonso/watsonso/master/profile-summary-card-output/cobalt2/2-most-commit-language.svg)
-```
-
-    
